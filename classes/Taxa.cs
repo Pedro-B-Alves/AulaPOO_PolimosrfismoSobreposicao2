@@ -2,7 +2,7 @@ using System;
 
 namespace AulaPOO_PolimosrfismoSobreposicao2.classes
 {
-    public class Taxa
+    public abstract class Taxa
     {
         private float valor = 5;
 
